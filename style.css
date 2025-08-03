@@ -1,0 +1,80 @@
+/* Global Reset & Base */
+body, h1, h2, h3, p, ul, li {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+}
+
+body {
+  background: #f9f9f9;
+  padding: 1rem;
+}
+
+nav {
+  background: #005a9c;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+nav li {
+  margin: 0;
+}
+
+nav a {
+  display: block;
+  padding: 0.75rem 1.25rem;
+  text-decoration: none;
+  color: #fff;
+}
+
+nav a.active, nav a:hover {
+  background: #004080;
+}
+
+main {
+  max-width: 800px;
+  margin: 2rem auto;
+  background: #fff;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+h1 {
+  margin-bottom: 1rem;
+  font-size: 1.8rem;
+  color: #005a9c;
+}
+
+h2 {
+  margin-top: 1.5rem;
+  font-size: 1.4rem;
+  color: #005a9c;
+}
+
+h3 {
+  margin-top: 1rem;
+  font-size: 1.2rem;
+  color: #005a9c;
+}
+
+ul {
+  margin: 0.75rem 0 1rem 1.5rem;
+}
+
+ul li {
+  margin-bottom: 0.5rem;
+}
+
+footer {
+  text-align: center;
+  margin-top: 2rem;
+  font-size: 0.9rem;
+  color: #666;
+}

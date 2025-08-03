@@ -1,8 +1,8 @@
 # Africa Ability Trust Website
 
-Welcome to the static website for Africa Ability Trust, built with HTML, CSS, and JavaScript.
+Africa Ability Trust
 
-## 🔧 SITE STRUCTURE
+## 🔧 Proposed SITE STRUCTURE
 
 ```
 africa-ability-site/
@@ -26,8 +26,4 @@ africa-ability-site/
 └── README.md              ← This file
 ```
 
-### How to Use
 
-1. Place all files in a folder named `africa-ability-site`.
-2. Open `index.html` in your web browser.
-3. Navigate the site using the top menu.
